@@ -1,4 +1,4 @@
-def countShit(line):
+def countThis(line):
     return len(line.split())
 
-print(countShit("Geeksforgeeks   is best Computer Science  \t \nPortal"))
+print(countThis("Geeksforgeeks   is best Computer Science  \t \nPortal"))
